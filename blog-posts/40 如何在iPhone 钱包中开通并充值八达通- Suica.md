@@ -1,7 +1,21 @@
 # 40  如何在iPhone 钱包中开通并充值八达通/ Suica
 
 
-本文更新于2020年6月2日。
+本文更新于2020年8月17日。
+
+# [八达通游客版](https://apps.apple.com/hk/app/octopus-for-tourists/id1505492952?l=en)
+八达通在 App Store 已上架[游客版](https://apps.apple.com/hk/app/octopus-for-tourists/id1505492952?l=en)，支持使用非香港地区 Visa、MasterCard、 银联卡等支付方式。下载 App 后，使用 Apple ID 登录，选择一张绑定过 Apple Pay 的信用卡/储蓄卡即可充值。选择某种货币充值后后续无法更改。
+
+点击[此处](https://apps.apple.com/hk/app/octopus-for-tourists/id1505492952?l=en)前往 App Store 下载。目前仅支持 Apple ID 登录，简单方便。
+![](https://cdn.shuziyimin.org/blog-56-06.png)
+
+登录后选择银联卡充值即可，下图简介操作步骤。与八达通 App 生成的卡片可以共存。需要注意，选择某种货币充值后后续无法更改。
+![](https://cdn.shuziyimin.org/blog-56-07.png)
+
+
+
+---- ---
+以下内容是比较老的解决方案，仅适用 Suica，若充值八达通，建议使用上方新方案。
 
 Apple Pay 目前已支持八达通和 Suica，做为香港和日本最通用的公交卡兼小额支付工具，这两种卡是游览香港和日本必备品。因为中国大陆金融机构发行的所有银行卡在绑定 Apple Pay 仅支持银联卡人民币方式支付，所以无法用于开通及充值八达通和 Suica。这里介绍一些支持 Apple Pay 的 Visa/Matercard 银行卡，方便在手机上完成开通及充值。
 
