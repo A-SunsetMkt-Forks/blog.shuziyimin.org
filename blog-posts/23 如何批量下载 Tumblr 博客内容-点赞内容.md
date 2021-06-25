@@ -4,7 +4,7 @@ Tumblr 突然宣布[不再允许](https://tumblr.zendesk.com/hc/en-us/articles/2
 
 <!-- more -->
 
-# 1. Windows 客户端： [TumblThree](https://github.com/johanneszab/TumblThree)
+## 1. Windows 客户端： [TumblThree](https://github.com/johanneszab/TumblThree)
 
 TumblThree 是 Windows 上一款开源软件，支持下载各种类型的 Tumblr 内容，十分全能，且官方[中文文档](https://github.com/Emphasia/TumblThree-zh)十分清晰。
 
@@ -35,7 +35,7 @@ Tumblr 在中国无法直接访问。若是 Windows 10 系统，可在开启 sha
 ![25-2-windows-proxy](https://cdn.shuziyimin.org/blog-25-2-1565522915.png)
 
 
-# 2. Mac 平台的 [tumblr-lks-downldr-cli](https://github.com/andrscrrn/tumblr-lks-downldr-cli)
+## 2. Mac 平台的 [tumblr-lks-downldr-cli](https://github.com/andrscrrn/tumblr-lks-downldr-cli)
 
 Mac 平台没有全功能的 Tumblr 下载工具，较好用的是 tumblr-lks-downldr-cli 。从名字就可以看出，这是一个下载 Tumblr 点赞内容的命令行工具。虽然很多[工具](https://github.com/neuro-sys/tumblr-likes-downloader)通过用户申请开发者API，就可以帮助用户下载已点赞内容，个人未试用成功，所以推荐这个命令行工具。注意，此命令行工具只能用于下载 已点赞内容中的图片，无法下载视频。
 
@@ -51,7 +51,7 @@ Mac 平台没有全功能的 Tumblr 下载工具，较好用的是 tumblr-lks-do
 andrscrrn.tumblr.com  应替换为自己的 Tumblr 地址
 - 数字 1000 代表点赞的 Post 数量，如需下载全部，输入一个比点赞Post 数量更大的数字 即可。
 - 默认所有图片就被下载到 /Users/username (每个人名称不一样)，`-p  /Users/bates/Desktop` 这个参数可以用来自定义下载路径。
-![25-3-mac-tumblr-downloader-cli](https://cdn.shuziyimin.org/blog-25-3-1565522920.png)
+![](https://cdn.shuziyimin.org/blog-25-3-1565522920.png)
 
 
 **为终端（Terminal）配置代理**
@@ -63,7 +63,7 @@ andrscrrn.tumblr.com  应替换为自己的 Tumblr 地址
 
 - 方案二：安装第三方库来为node 进行代理。npm 虽然可以配置代理，但是node 本身并没有网络代理相关的设置。tumblr-lks-downldr-cli 作为一个基于 Node.js 的第三方工具，本身也不提供代理。解决办法只能是 改代码 或者 安装第三方库，可以尝试 安装[global-tunnel-ng](https://www.npmjs.com/package/global-tunnel-ng) ，未使用。过程太艰难了，我不是一个程序员好不好 🤦‍♂️
 
-# 3. Mac 平台的[ Tumblr like exporter](https://github.com/easychen/tumblr-like-exporter)
+## 3. Mac 平台的[ Tumblr like exporter](https://github.com/easychen/tumblr-like-exporter)
 
 **使用**
 此工具可下载点赞的图片及视频。

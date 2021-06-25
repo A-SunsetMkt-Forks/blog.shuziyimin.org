@@ -1,6 +1,6 @@
 # 30 美区 Apple ID 官方充值渠道汇总
 
-# 1. 简介美区 Apple ID 支付/充值方式
+## 1. 简介美区 Apple ID 支付/充值方式
 目前 美区 Apple ID 可以有三种支付方式，以下简介各种方式的优缺点以及获取成本。
 
 **美区 Paypal**
@@ -23,7 +23,7 @@
 
 综上，时间和精力成本上考虑，最简单的是充值方式是购买礼品卡送给自己，收到礼品卡邮件后兑换。下面介绍购买礼品卡的官方渠道。如对使用 PayPal 感兴趣，请参考本站[另一篇文章](https://digitalimmigrant.org/171)。
 
-# 2. 使用礼品卡充值美区 Apple ID 充值
+## 2. 使用礼品卡充值美区 Apple ID 充值
 
 **[Apple 美区官方购买礼品卡](https://www.apple.com/shop/gift-cards/itunes-electronic)**
 - 官方链接：点击[此处](https://www.apple.com/shop/gift-cards/itunes-electronic)
@@ -37,7 +37,7 @@
 - 点击 Guest Checkout 以游客身份支付即可。
 - 填写信用卡信息及账单地址。账单地址建议选择没有[消费税的五个州](https://www.thebalance.com/states-without-a-sales-tax-3193305)，因为不确定购买虚拟产品会不会账单地址不同而多交税。
 
-![41-1](https://cdn.shuziyimin.org/blog-41-01-1565526546.png)
+![](https://cdn.shuziyimin.org/blog-41-01-1565526546.png)
 
 
 
@@ -47,7 +47,7 @@
 - 金额选择：25-250USD 任意金额
 - 优惠：优惠较多；可以考虑信用卡返现
 - 到账时间：理论上即时，未实践
-![41-02](https://cdn.shuziyimin.org/blog-41-02-1565526547.png)
+![](https://cdn.shuziyimin.org/blog-41-02-1565526547.png)
 
 
 **[从 Walmart 线上商城购买礼品卡](https://www.walmart.com/ip/15-App-Store-iTunes-Gift-Card-Email-Delivery/52897901)**
@@ -64,14 +64,14 @@ Google Play Gift Card 的[官方合作伙伴](https://play.google.com/about/gift
 
 因为实体礼品卡在美国超市经常有5-15%的折扣，加上信用卡返现等，购买到原价甚至低于官方价格、真实充值的礼品卡也是可能的。但仍有风险，仅建议从认识的朋友处购入。
 
-# 3. 虚拟 VISA/Mastercard 信用卡
+## 3. 虚拟 VISA/Mastercard 信用卡
 一般情况下，不愿意折腾的话，在官网购买一张礼品卡送给自己即可。使用 Apple ID 一般充值即可，但若需要开通家庭共享等功能，绑定支付方式是必须的。
 这里推荐使用 figtcards.com 的虚拟 VISA/Mastercard 信用卡服务，因为它是 Google Play Gift Card 的[官方合作伙伴](https://play.google.com/about/giftcards/#retailers)，所以比较靠谱。
 
 点击 [Visa Gift Card](https://www.giftcards.com/visa-gift-cards) 即可购买，额度为10-500USD ，金额可以自选。选择最低的 10USD 余额的卡片，需要大约 5USD 的手续费，十分高了。建议绑定之后，正常使用的话，还是用礼品卡充值余额。
 
 
-![41-04](https://cdn.shuziyimin.org/blog-41-04-1565526549.png)
+![](https://cdn.shuziyimin.org/blog-41-04-1565526549.png)
 
 
 
