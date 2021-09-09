@@ -8,5 +8,7 @@ blog post source files in markdown format
 For Chinese version README, please click [here][1]；
 中文版请查看[此处][2]； 
 
+Update on Sep 09. 2021
+
 [1]:	https://github.com/bates33/shuziyimin/blob/master/README-CN.md
 [2]:	https://github.com/bates33/shuziyimin/blob/master/README-CN.md
