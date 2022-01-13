@@ -39,7 +39,7 @@ cloud torrent 支持磁力链接。虽然不支持电驴，但是输入ed2k 链�
 
  很多视频播放器都支持输入链接直接播放，并且支持导入外挂字幕。
 
-MacOS 上的 [IINA播放器](https://lhc70000.github.io/iina/)， Windows 上的 [Pot player ](https://potplayer.daum.net/) ， iOS 上 [nplayer lite](https://itunes.apple.com/cn/app/nplayer-lite/id1078835991?mt=8) 都是不错的选择。这三个播放器都试用了，没有问题，倒是 Windows 上的 QQ影音 出现无法播放的情况。
+MacOS 上的 [IINA播放器](https://lhc70000.github.io/iina/)， Windows 上的 [Pot player ](https://potplayer.daum.net/) ， iOS 上 [Nplayer lite](https://itunes.apple.com/cn/app/nplayer-lite/id1078835991?mt=8) 都是不错的选择。这三个播放器都试用了，没有问题，倒是 Windows 上的 QQ影音 出现无法播放的情况。
 
 ![](https://cdn.shuziyimin.org/blog-04-04-1564981295.jpg)
 

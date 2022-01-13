@@ -1,7 +1,6 @@
 # 11 教程：美区Apple ID 绑定 Paypal，无需美国信用卡也能买买买
 
 完整按照本教程进行操作，也有不成功的风险。
-封面图片来自  [wccftech.com](https://wccftech.com/apple-adds-paypal-as-a-payment-option-in-app-store-itunes-apple-music/)；
 
 <!-- more -->
 

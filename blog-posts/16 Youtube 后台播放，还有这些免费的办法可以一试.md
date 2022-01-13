@@ -4,8 +4,6 @@
 
 <!-- more -->
 
-封面图来自 [Unsplash](https://unsplash.com) ，作者 [Christian Wiediger](https://unsplash.com/photos/ZYLmudR28SA);
-
 # 首先，[Youtube Premium](https://www.youtube.com/premium)  了解一下？
 
 [Youtube Premium](https://www.youtube.com/premium) 是YouTube 会员服务。有去广告，视频下载，后台播放，YouTube音乐会员，独家剧作五大权益，11.99 美元一个月。如果只是偶尔使用后台播放，这个价格还是比较贵的。同时，YouTube Premium 家庭共享是 [Google 家庭共享](https://families.google.com/families)的一部分，不建议和非家人好友共用家庭套餐。
