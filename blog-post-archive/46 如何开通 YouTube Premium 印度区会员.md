@@ -29,6 +29,8 @@ YouTube premium 是 YouTube 会员版本。官网一句话介绍了主要涵盖�
 
 # YouTube premium 印度区会影响首页内容都变成印度内容吗？
 
+草稿，未完成。 
+
 # YouTube premium 家庭共享
 YouTube 作为 Google 服务的一部分，其家庭共享与 Google 其他服务的家庭共享是互通的。如果你之前已经与家人朋友共享 Google one (Google photos 与 Google drive 存储空间)， 那开通 YouTube premium 家庭会员时，会默认给家庭组的用户分享会员。
 

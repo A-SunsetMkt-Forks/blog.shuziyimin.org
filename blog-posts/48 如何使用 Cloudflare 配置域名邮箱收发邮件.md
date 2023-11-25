@@ -11,7 +11,7 @@ Clouflare 是世界上用户量最大的 CDN 服务商，截至 2022 年 1 月�
 # 2. 添加 Cloudflare 的 MX 记录
 在 Cloudflare 后台点击 Email 即可开始配置（新版本菜单栏在左侧，与下文的图稍有区别）。点击添加记录即可一键导入 Cloudflare 自家的 MX 服务器记录信息。
 DNS 解析记录中如果添加过其他邮箱服务商的 MX 记录，**需要先删除原有 MX 记录**。
-![](https://cdn.shuziyimin.org/48-03.png)
+![](https://static.shuziyimin.org/48-03.png)
 
  
 # 3. 配置 Cloudflare Email Routing
@@ -21,7 +21,7 @@ DNS 解析记录中如果添加过其他邮箱服务商的 MX 记录，**需要�
 
 Destination addresses 目标地址是同一 Cloudflare 账户下所有域名共享的。同一个 Cloudflare 账户下，如果你在配置域名 A 邮件转发的时候验证了邮件地址 test@shuziyimin.org ，那配置域名 B 邮件转发时可以直接填入 test@shuziyimin.org，无需再次验证。
 
-![](https://cdn.shuziyimin.org/48-04.png)
+![](https://static.shuziyimin.org/48-04.png)
 
 **3.2 Custom addresses 自定义地址**
 添加且验证目标邮箱后，在配置这里时，填入自己想使用的域名前缀，指向目标邮箱即可。
@@ -33,33 +33,35 @@ Destination addresses 目标地址是同一 Cloudflare 账户下所有域名共�
 # 4. 使用自定义域名发邮件
 对于大部分用户来说，完成上述步骤使用自定义域名进行收件即可。如果有使用自定义域名发邮件的需求，请查看下面教程，这里以 Gmail 为例。 
 
+备注：此方法仅适合个人偶尔使用，不适合商业或者大范围使用。使用 Gmail 等个人邮箱替代域名邮箱来发，会被很多收件箱识别为垃圾或者钓鱼邮件。**如果有商用需求，请选择大型邮件服务商，商用发件服务已在事实上被大机构垄断。**
+
 **4.1 获取谷歌账户专属应用密码**
 在浏览器新窗口打开下方链接，登录谷歌账户后，即可在谷歌应用密码配置页面获取一个新的专属应用密码。“设备” 可以选择其他，然后自己填入自定义信息方便记忆，如下图，我写入了 “SZYM-test”来给这个新应用密码备注。获取密码后记得先保存。
 [https://myaccount.google.com/apppasswords](https://myaccount.google.com/apppasswords)
 
 
-![](https://cdn.shuziyimin.org/48-11.png)
+![](https://static.shuziyimin.org/48-11.png)
 
 
 **4.2 配置 Gmail **
 在  Gmail 设置 - Accounts and Import 中，找到发送邮件的位置，点击“添加新邮箱地址”，如下图所示。
-![](https://cdn.shuziyimin.org/48-05.png)
+![](https://static.shuziyimin.org/48-05.png)
 点击添加新邮箱地址，会出现下图弹窗。
 - 邮箱名字会用于之后发邮件的默认名，会对外展示，请慎重填写。
 - 域名邮箱地址，请事先在 Cloudflare 中配置此前缀域名邮箱，确认可以接收邮件
 
-![](https://cdn.shuziyimin.org/48-06.png)
+![](https://static.shuziyimin.org/48-06.png)
 进入下一步，
 - SMTP 需要填写 smtp.gmail.com
 - port 端口保持默认即可，如果需要变更协议，端口需要做相应变更
 - username 填写原本 Gmail 的用户名，即邮箱地址中除去 @gmail.com 之外的信息
 - password 需要使用在步骤 4.1 中获取的专属应用密码 
 
-![](https://cdn.shuziyimin.org/48-07.png)
+![](https://static.shuziyimin.org/48-07.png)
 
 如果上述信息填写成功，即可进入下一页面，Gmail 会收到一封邮件，填入对应的验证码即可。
-![](https://cdn.shuziyimin.org/48-08.png)
+![](https://static.shuziyimin.org/48-08.png)
 
 配置完成后，发送邮件时就可以选择自定义邮箱了。也可以在 Gmail 设置中将此邮箱地址作为默认发件地址。
-![](https://cdn.shuziyimin.org/48-09.png)
+![](https://static.shuziyimin.org/48-09.png)
 

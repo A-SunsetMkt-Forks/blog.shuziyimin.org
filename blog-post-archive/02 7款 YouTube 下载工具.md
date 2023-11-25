@@ -1,6 +1,6 @@
 # 02 7款 YouTube 下载工具
 
-本文更新于 2022 年1月。
+本文更新于 2023 年9 月。
 <!-- more -->
 
 ## 1. Youtube Premium
@@ -17,14 +17,28 @@
 [https://www.y2meta.com/zh-tw26](https://www.y2meta.com/zh-tw26)
 
 [https://flv-to.com/en10](https://flv-to.com/en10)
-在美国地区不支持
 
-## Windows 平台的YouTube 视频下载工具 
+
+[https://9convert.com/en379](https://9convert.com/en379)
+[https://saveyt.cc/tw](https://saveyt.cc/tw)
+
+youtube-dl 开源软件 youtube-dl 在 2020 年引起过较大争议。 
+
+[https://en.wikipedia.org/wiki/Youtube-dl](https://en.wikipedia.org/wiki/Youtube-dl)
+
+## Windows 平台的YouTube 视频下载工具
+
+### yt-dlp
+youtube-dl 是 GitHub 上知名视频下载程序，支持超过1000 个视频网站。2020年10月美国版权协会要求GitHub 删除此项目，之后经过争议后恢复。 经过各种波折，2023年比较活跃的分支是 yt-dlp 。 
+
+ [https://github.com/yt-dlp/yt-dlp#release-files](https://github.com/yt-dlp/yt-dlp#release-files)
+
+
 
 [https://sourceforge.net/projects/vividl/](https://sourceforge.net/projects/vividl/)
 
-[https://github.com/MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui)
-## macOS平台的YouTube 视频下载工具 
+
+## macOS平台的YouTube 视频下载工具
  [https://github.com/DenBeke/YouTube-Downloader-for-macOS/releases](https://github.com/DenBeke/YouTube-Downloader-for-macOS/releases)
 
 [Downie](http://software.charliemonroe.net/downie.php)
@@ -36,9 +50,9 @@ Shortcuts 原 workflow 版本
  
  打开此 [链接](https://workflow.is/workflows/387973120bde472b80b9c0f5ab90dd51)，即可添加workflow
 
-## Android 平台的YouTube 视频下载工具 
+## Android 平台的YouTube 视频下载工具
 
-## iOS 平台的YouTube 视频下载工具 
+## iOS 平台的YouTube 视频下载工具
 
 
 Pure Tuber
