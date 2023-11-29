@@ -2,6 +2,9 @@
 
 
 本文更新于2023年9月30日。 
+
+<!-- more -->
+
 该方法来推友 [https://twitter.com/Mac9527/status/1602282189265448961](https://twitter.com/Mac9527/status/1602282189265448961%20) 。
 
 # 1. 在支付宝内找到 Pockyt 礼品卡充值
